@@ -1,3 +1,16 @@
 html,body{
 	height: 100%;
 }
+.days{
+	font-size: 20px;
+}
+.less{
+	font-size: 10px;
+	vertical-align: text-top;
+}
+
+.footer{
+  height: 100px;
+  position: absolute;
+  bottom: 0; 
+}
